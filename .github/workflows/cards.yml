@@ -16,9 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+      # STATS_TOKEN (classic PAT, repo + read:user) lets PR/issue/commit counts include private
+      # work; without it the Actions token sees public activity only.
       - run: python3 scripts/cards.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
           git diff --quiet assets/ && exit 0

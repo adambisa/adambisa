@@ -13,6 +13,9 @@
 ![PyTorch](https://img.shields.io/badge/PYTORCH-ecebe6?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-ecebe6?style=for-the-badge)
 ![pandas](https://img.shields.io/badge/PANDAS-ecebe6?style=for-the-badge)
+![React](https://img.shields.io/badge/REACT-ecebe6?style=for-the-badge)
+![tRPC](https://img.shields.io/badge/TRPC-ecebe6?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NESTJS-ecebe6?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-ecebe6?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-ecebe6?style=for-the-badge)
 

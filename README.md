@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-ecebe6?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-ecebe6?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-ecebe6?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OPENCV-ecebe6?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-ecebe6?style=for-the-badge)
 ![pandas](https://img.shields.io/badge/PANDAS-ecebe6?style=for-the-badge)
 ![React](https://img.shields.io/badge/REACT-ecebe6?style=for-the-badge)

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="Most Used Languages">
+  <title>Most Used Languages</title>
+  <rect x="1.5" y="1.5" width="417" height="197" fill="#0d0d0d" stroke="#ecebe6" stroke-width="3"/>
+  <text x="24" y="40" fill="#ecebe6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="800">Most Used Languages</text>
+  <rect x="24.0" y="62" width="153.7" height="10" fill="#ecebe6"/>
+  <rect x="180.7" y="62" width="117.2" height="10" fill="#9d9c97"/>
+  <rect x="300.9" y="62" width="26.2" height="10" fill="#5c5b58"/>
+  <rect x="330.1" y="62" width="65.9" height="10" fill="#3a3a38"/>
+  <rect x="24" y="97" width="10" height="10" fill="#ecebe6"/><text x="42" y="106" fill="#ecebe6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">TypeScript <tspan fill="#8a8984">42%</tspan></text>
+  <rect x="214" y="97" width="10" height="10" fill="#9d9c97"/><text x="232" y="106" fill="#ecebe6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Python <tspan fill="#8a8984">32%</tspan></text>
+  <rect x="24" y="125" width="10" height="10" fill="#5c5b58"/><text x="42" y="134" fill="#ecebe6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">JavaScript <tspan fill="#8a8984">7%</tspan></text>
+  <rect x="214" y="125" width="10" height="10" fill="#3a3a38"/><text x="232" y="134" fill="#ecebe6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Other <tspan fill="#8a8984">18%</tspan></text>
+</svg>
